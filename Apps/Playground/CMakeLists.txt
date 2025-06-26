@@ -137,6 +137,7 @@ target_link_libraries(Playground
     PRIVATE ScriptLoader
     PRIVATE Window
     PRIVATE XMLHttpRequest
+    PRIVATE Blob
     PRIVATE TestUtils
     ${ADDITIONAL_LIBRARIES}
     ${BABYLON_NATIVE_PLAYGROUND_EXTENSION_LIBRARIES})
