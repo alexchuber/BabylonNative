@@ -177,6 +177,7 @@ target_link_libraries(TestInstall
     UrlLib
     Window
     XMLHttpRequest
+    Blob
     chakrart
     d3d11
     d3d12

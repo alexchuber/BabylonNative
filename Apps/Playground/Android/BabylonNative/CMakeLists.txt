@@ -35,4 +35,5 @@ target_link_libraries(BabylonNativeJNI
     NativeXr
     ScriptLoader
     XMLHttpRequest
-    Window)
+    Window
+    Blob)

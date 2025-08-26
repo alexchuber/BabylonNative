@@ -39,5 +39,6 @@ target_link_libraries(UnitTestsJNI
     PRIVATE NativeOptimizations
     PRIVATE ScriptLoader
     PRIVATE XMLHttpRequest
+    PRIVATE Blob
     PRIVATE gtest_main
     PRIVATE Window)

@@ -39,6 +39,7 @@ target_link_libraries(UnitTests
     PRIVATE UrlLib
     PRIVATE Window
     PRIVATE XMLHttpRequest
+    PRIVATE Blob
     PRIVATE gtest_main
     ${ADDITIONAL_LIBRARIES})
 

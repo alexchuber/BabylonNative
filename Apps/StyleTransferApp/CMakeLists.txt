@@ -36,7 +36,8 @@ target_link_libraries(StyleTransferApp
     PRIVATE NativeInput
     PRIVATE ScriptLoader
     PRIVATE Window
-    PRIVATE XMLHttpRequest)
+    PRIVATE XMLHttpRequest
+    PRIVATE Blob)
 
 foreach(SCRIPT ${BABYLON_SCRIPTS} ${SCRIPTS})
     get_filename_component(SCRIPT_NAME "${SCRIPT}" NAME)
