@@ -1,3 +1,7 @@
+> [!IMPORTANT]
+> Base new changes on the [`prod`](https://github.com/alexchuber/BabylonNative/tree/prod) branch for the latest upstream changes.
+> The `prod` branch is automatically synced with upstream every hour.
+
 [![Build Status](https://dev.azure.com/babylonjs/ContinousIntegration/_apis/build/status/BabylonNative%20CI?branchName=master)](https://dev.azure.com/babylonjs/ContinousIntegration/_build/latest?definitionId=6&branchName=master)
 [![Nightly build](https://github.com/BabylonJS/BabylonNative/workflows/Nightly%20build/badge.svg)](https://github.com/BabylonJS/BabylonNative/actions?query=workflow%3A%22Nightly+build%22)
 
